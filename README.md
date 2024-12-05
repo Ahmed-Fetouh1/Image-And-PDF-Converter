@@ -30,7 +30,7 @@ This tool is lightweight, efficient, and designed to support future enhancements
 ### Clone the Repository
 To download and use this project:
 ```bash
-git clone https://github.com/<your-username>/ImageAndPDFConverter.git
+git clone https://github.com/Ahmed-Fetouh1/Image-And-PDF-Converter.git
 cd ImageAndPDFConverter
 ```
 
